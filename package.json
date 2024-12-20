@@ -1,0 +1,21 @@
+{
+  "name": "race-game-threejs",
+  "version": "1.0.0",
+  "description": "A simple race game using three.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.4"
+  }
+}
